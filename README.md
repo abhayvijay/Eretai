@@ -232,6 +232,47 @@ ods &o close;
 
 
 
+ERETAIL SCRIPT:-
+
+I am responsible for generating reports of sales order ,
+purchase order,sto order and inventory ,according to client requirement.
+It is like warehouse wise and marketplace wise report.
+
+we do this activity weekely,monthly,quaterly and yearly.
+
+sales report
+inventory report
+po report
+sto report
+return order report
+Transporter-order transporter wise
+
+
+and some adhoc reports also.(like how many bom sku with the child sku etc).
+
+our db team used to feed the data in our Sas system after that we start
+writing codes and creating reports.
+
+1.First we sanitize the data to check that we are analysing the correct data
+  like removing duplicates using nodupkey and nodup
+  and handling missing values(NMISS,missover) as per client suggestion.
+
+
+2.Then we starts coding to generate reports as per client given req.
+
+3.After that if dashboaring is required then we send it to our other team
+  to create dashboard they generate the dashboard through POWER BI and send 
+  it to client.
+
+##EXTRA POINT
+
+1.I also review the work produced by our peer before deliver it  to the client. 
+
+2.As an analyst ,i continue to acquire and enhance technical and nontechincal
+  skills by closely working with our peer and using any available oppurtnity for that.
+
+  Recently i have automated a major portion of our reporting by creating
+  macro by which we were able to save lots of effort spend on repetative work.
 
 
 
