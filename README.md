@@ -1,4 +1,4 @@
-# Eretai
+# Eretail
  E Commerce based project-marketplace ,orders,inventory analytics
 Domain: Ecommerce
 Client - Redtape, Fabindia, Lavie bags,Manyavar,Nykaa etc
